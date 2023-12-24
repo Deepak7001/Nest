@@ -1,0 +1,10 @@
+#quantity1,#quantity2,#quantity3,#quantity4,#quantity5,#quantity6,#quantity7,#quantity8,#quantity9,#quantity10{
+    width: 4vw;
+    height: 4vh;
+    margin-left: 11px;
+    border: 3px rgba(0, 0, 0, 0.56) solid;
+}
+.unclickable {
+    pointer-events: none;
+    opacity: 0.6; /* Optional: changes the link's appearance to look "disabled" */
+}
